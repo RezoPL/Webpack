@@ -8,5 +8,8 @@
     "start": "webpack"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.0.0"
+  }
 }
