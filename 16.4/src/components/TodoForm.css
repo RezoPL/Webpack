@@ -1,0 +1,11 @@
+.formStyle {
+    text-align: center;
+}
+
+.btnSubmit {
+    cursor: pointer;
+}
+
+.btnSubmit:hover {
+    background-color:  #595959;
+}
