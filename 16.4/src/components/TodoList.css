@@ -1,0 +1,16 @@
+.TodoList {
+	padding: 15px;
+    background-color: #595959;
+}
+
+.btnDelete {
+    border: none;
+    background-color: inherit;
+}
+
+.liStyle {
+    padding: 15px 0;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+}
